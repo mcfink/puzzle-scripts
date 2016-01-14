@@ -1,0 +1,2258 @@
+TOWN
+GENERIC
+TERM
+VTRANS
+TERM MILES
+SURFACE - BY COUNTY AND TOWN 1/6/2015 Page 1 of 45
+ Public Roads Only -- Mileages are Approximate
+ADDISON COUNTY
+Addison Paved Pavement 33
+Addison Dirt Gravel 24
+Addison Dirt Graded Earth 0
+Addison Dirt Unimproved/Primitive 3
+Addison Dirt Untravelled 2
+Total Dirt Mileage 29
+Addison Total Mileage 62
+Bridport Paved Pavement 39
+Bridport Dirt Gravel 32
+Bridport Dirt Graded Earth 6
+Bridport Dirt Unimproved/Primitive 1
+Total Dirt Mileage 39
+Bridport Total Mileage 79
+Bristol Paved Pavement 28
+Bristol Dirt Gravel 13
+Bristol Dirt Graded Earth 2
+Bristol Dirt Unimproved/Primitive 0
+Bristol Dirt Untravelled 4
+Total Dirt Mileage 19
+Bristol Total Mileage 48
+Bristol Village Paved Pavement 8
+Bristol Village Dirt Unimproved/Primitive 0
+Total Dirt Mileage 0
+Bristol Village Total Mileage 8
+Cornwall Paved Pavement 26
+Cornwall Dirt Gravel 17
+Cornwall Dirt Graded Earth 3
+Cornwall Dirt Untravelled 1
+Total Dirt Mileage 21
+Cornwall Total Mileage 47
+Ferrisburgh Paved Pavement 55
+Ferrisburgh Dirt Gravel 24
+Ferrisburgh Dirt Graded Earth 5
+Ferrisburgh Dirt Untravelled 2
+Total Dirt Mileage 31
+Ferrisburgh Total Mileage 86
+Goshen Paved Pavement 7
+Goshen Dirt Gravel 9
+Goshen Dirt Graded Earth 3
+Goshen Dirt Unimproved/Primitive 0
+Total Dirt Mileage 12
+Goshen Total Mileage 19
+TOWN
+GENERIC
+TERM
+VTRANS
+TERM MILES
+SURFACE - BY COUNTY AND TOWN 1/6/2015 Page 2 of 45
+ Public Roads Only -- Mileages are Approximate
+Granville Paved Pavement 12
+Granville Dirt Gravel 12
+Granville Dirt Graded Earth 6
+Granville Dirt Unimproved/Primitive 3
+Granville Dirt Untravelled 9
+Total Dirt Mileage 29
+Granville Total Mileage 41
+Hancock Paved Pavement 12
+Hancock Dirt Gravel 5
+Hancock Dirt Graded Earth 2
+Hancock Dirt Unimproved/Primitive 0
+Hancock Dirt Untravelled 2
+Total Dirt Mileage 9
+Hancock Total Mileage 20
+Leicester Paved Pavement 15
+Leicester Dirt Gravel 12
+Leicester Dirt Graded Earth 2
+Leicester Dirt Unimproved/Primitive 2
+Total Dirt Mileage 15
+Leicester Total Mileage 30
+Lincoln Paved Pavement 10
+Lincoln Dirt Gravel 28
+Lincoln Dirt Graded Earth 15
+Lincoln Dirt Unimproved/Primitive 2
+Lincoln Dirt Untravelled 4
+Total Dirt Mileage 49
+Lincoln Total Mileage 58
+Middlebury Paved Pavement 46
+Middlebury Dirt Gravel 15
+Middlebury Dirt Graded Earth 2
+Middlebury Dirt Untravelled 1
+Total Dirt Mileage 19
+Middlebury Total Mileage 65
+Middlebury U.C. Paved Pavement 20
+Middlebury U.C. Dirt Gravel 0
+Total Dirt Mileage 0
+Middlebury U.C. Total Mileage 21
+Monkton Paved Pavement 21
+Monkton Dirt Gravel 25
+Monkton Dirt Graded Earth 8
+Monkton Dirt Unimproved/Primitive 1
+Monkton Dirt Untravelled 5
+Total Dirt Mileage 39
+Monkton Total Mileage 60
+TOWN
+GENERIC
+TERM
+VTRANS
+TERM MILES
+SURFACE - BY COUNTY AND TOWN 1/6/2015 Page 3 of 45
+ Public Roads Only -- Mileages are Approximate
+New Haven Paved Pavement 50
+New Haven Dirt Gravel 14
+New Haven Dirt Untravelled 0
+Total Dirt Mileage 14
+New Haven Total Mileage 64
+Orwell Paved Pavement 26
+Orwell Dirt Gravel 50
+Orwell Dirt Graded Earth 3
+Orwell Dirt Unimproved/Primitive 1
+Orwell Dirt Untravelled 0
+Total Dirt Mileage 54
+Orwell Total Mileage 79
+Panton Paved Pavement 15
+Panton Dirt Gravel 6
+Panton Dirt Graded Earth 6
+Total Dirt Mileage 12
+Panton Total Mileage 27
+Ripton Paved Pavement 11
+Ripton Dirt Gravel 17
+Ripton Dirt Graded Earth 3
+Ripton Dirt Untravelled 0
+Total Dirt Mileage 20
+Ripton Total Mileage 31
+Salisbury Paved Pavement 24
+Salisbury Dirt Gravel 13
+Salisbury Dirt Graded Earth 3
+Salisbury Dirt Unimproved/Primitive 1
+Salisbury Dirt Untravelled 1
+Total Dirt Mileage 18
+Salisbury Total Mileage 42
+Shoreham Paved Pavement 31
+Shoreham Dirt Gravel 43
+Shoreham Dirt Graded Earth 6
+Shoreham Dirt Unimproved/Primitive 1
+Shoreham Dirt Untravelled 4
+Total Dirt Mileage 54
+Shoreham Total Mileage 85
+Starksboro Paved Pavement 15
+Starksboro Dirt Gravel 24
+Starksboro Dirt Graded Earth 14
+Starksboro Dirt Unimproved/Primitive 1
+Starksboro Dirt Untravelled 4
+Total Dirt Mileage 43
+Starksboro Total Mileage 58
+TOWN
+GENERIC
+TERM
+VTRANS
+TERM MILES
+SURFACE - BY COUNTY AND TOWN 1/6/2015 Page 4 of 45
+ Public Roads Only -- Mileages are Approximate
+Vergennes City Paved Pavement 14
+Vergennes City Dirt Gravel 0
+Vergennes City Dirt Untravelled 0
+Total Dirt Mileage 0
+Vergennes City Total Mileage 15
+Waltham Paved Pavement 10
+Waltham Dirt Gravel 3
+Total Dirt Mileage 3
+Waltham Total Mileage 14
+Weybridge Paved Pavement 23
+Weybridge Dirt Gravel 9
+Weybridge Dirt Untravelled 0
+Total Dirt Mileage 9
+Weybridge Total Mileage 33
+Whiting Paved Pavement 9
+Whiting Dirt Gravel 7
+Whiting Dirt Graded Earth 3
+Total Dirt Mileage 11
+Whiting Total Mileage 20
+ADDISON COUNTY TOTAL 1110
+BENNINGTON COUNTY
+Arlington Paved Pavement 16
+Arlington Dirt Gravel 25
+Arlington Dirt Graded Earth 2
+Arlington Dirt Untravelled 2
+Total Dirt Mileage 28
+Arlington Total Mileage 44
+Arlington U.C. Paved Pavement 6
+Arlington U.C. Dirt Gravel 1
+Arlington U.C. Dirt Unimproved/Primitive 0
+Total Dirt Mileage 1
+Arlington U.C. Total Mileage 7
+Bennington Paved Pavement 85
+Bennington Dirt Gravel 10
+Bennington Dirt Graded Earth 0
+Bennington Dirt Unimproved/Primitive 0
+Bennington Dirt Untravelled 2
+Total Dirt Mileage 13
+Bennington Total Mileage 98
+Bennington U.C. Paved Pavement 33
+Bennington U.C. Dirt Gravel 0
+Bennington U.C. Dirt Untravelled 0
+Total Dirt Mileage 0
+Bennington U.C. Total Mileage 33
+TOWN
+GENERIC
+TERM
+VTRANS
+TERM MILES
+SURFACE - BY COUNTY AND TOWN 1/6/2015 Page 5 of 45
+ Public Roads Only -- Mileages are Approximate
+Dorset Paved Pavement 32
+Dorset Dirt Gravel 20
+Dorset Dirt Graded Earth 1
+Total Dirt Mileage 21
+Dorset Total Mileage 53
+Glastenbury Paved Pavement 2
+Glastenbury Dirt Gravel 2
+Total Dirt Mileage 2
+Glastenbury Total Mileage 3
+Landgrove Paved Pavement 1
+Landgrove Dirt Gravel 11
+Landgrove Dirt Graded Earth 3
+Landgrove Dirt Unimproved/Primitive 1
+Landgrove Dirt Untravelled 1
+Total Dirt Mileage 16
+Landgrove Total Mileage 17
+Manchester Paved Pavement 34
+Manchester Dirt Gravel 11
+Manchester Dirt Graded Earth 3
+Manchester Dirt Unimproved/Primitive 0
+Manchester Dirt Untravelled 4
+Total Dirt Mileage 19
+Manchester Total Mileage 53
+Manchester Center Depot U.C. Paved Pavement 13
+Manchester Center Depot U.C. Dirt Gravel 2
+Manchester Center Depot U.C. Dirt Graded Earth 0
+Total Dirt Mileage 2
+Manchester Center Depot U.C. Total Mileage 15
+Manchester Center Village Paved Pavement 9
+Manchester Center Village Dirt Gravel 0
+Manchester Center Village Dirt Graded Earth 0
+Total Dirt Mileage 0
+Manchester Center Village Total Mileage 9
+N. Bennington Village Paved Pavement 9
+N. Bennington Village Dirt Gravel 1
+N. Bennington Village Dirt Graded Earth 0
+Total Dirt Mileage 1
+N. Bennington Village Total Mileage 10
+Old Bennington Village Paved Pavement 3
+Old Bennington Village Dirt Untravelled 0
+Total Dirt Mileage 0
+Old Bennington Village Total Mileage 3
+TOWN
+GENERIC
+TERM
+VTRANS
+TERM MILES
+SURFACE - BY COUNTY AND TOWN 1/6/2015 Page 6 of 45
+ Public Roads Only -- Mileages are Approximate
+Peru Paved Pavement 10
+Peru Dirt Gravel 16
+Peru Dirt Graded Earth 1
+Peru Dirt Untravelled 5
+Total Dirt Mileage 23
+Peru Total Mileage 33
+Pownal Paved Pavement 33
+Pownal Dirt Gravel 41
+Pownal Dirt Graded Earth 4
+Pownal Dirt Unimproved/Primitive 2
+Pownal Dirt Untravelled 4
+Total Dirt Mileage 52
+Pownal Total Mileage 86
+Readsboro Paved Pavement 21
+Readsboro Dirt Gravel 25
+Readsboro Dirt Graded Earth 2
+Readsboro Dirt Unimproved/Primitive 2
+Readsboro Dirt Untravelled 3
+Total Dirt Mileage 32
+Readsboro Total Mileage 53
+Rupert Paved Pavement 19
+Rupert Dirt Gravel 22
+Rupert Dirt Graded Earth 5
+Rupert Dirt Untravelled 1
+Total Dirt Mileage 28
+Rupert Total Mileage 47
+Sandgate Paved Pavement 5
+Sandgate Dirt Gravel 26
+Sandgate Dirt Graded Earth 3
+Total Dirt Mileage 29
+Sandgate Total Mileage 34
+Searsburg Paved Pavement 10
+Searsburg Dirt Gravel 5
+Total Dirt Mileage 5
+Searsburg Total Mileage 15
+Shaftsbury Paved Pavement 32
+Shaftsbury Dirt Gravel 49
+Shaftsbury Dirt Graded Earth 5
+Shaftsbury Dirt Unimproved/Primitive 1
+Shaftsbury Dirt Untravelled 0
+Total Dirt Mileage 56
+Shaftsbury Total Mileage 88
+TOWN
+GENERIC
+TERM
+VTRANS
+TERM MILES
+SURFACE - BY COUNTY AND TOWN 1/6/2015 Page 7 of 45
+ Public Roads Only -- Mileages are Approximate
+Stamford Paved Pavement 11
+Stamford Dirt Gravel 13
+Stamford Dirt Graded Earth 6
+Total Dirt Mileage 19
+Stamford Total Mileage 30
+Sunderland Paved Pavement 19
+Sunderland Dirt Gravel 22
+Sunderland Dirt Graded Earth 1
+Sunderland Dirt Unimproved/Primitive 0
+Sunderland Dirt Untravelled 0
+Total Dirt Mileage 23
+Sunderland Total Mileage 42
+Winhall Paved Pavement 27
+Winhall Dirt Gravel 30
+Winhall Dirt Graded Earth 1
+Winhall Dirt Untravelled 2
+Total Dirt Mileage 32
+Winhall Total Mileage 59
+Woodford Paved Pavement 10
+Woodford Dirt Gravel 2
+Woodford Dirt Unimproved/Primitive 7
+Total Dirt Mileage 9
+Woodford Total Mileage 19
+BENNINGTON COUNTY TOTAL 851
+CALEDONIA COUNTY
+Barnet Paved Pavement 46
+Barnet Dirt Gravel 52
+Barnet Dirt Graded Earth 10
+Barnet Dirt Unimproved/Primitive 3
+Barnet Dirt Untravelled 3
+Total Dirt Mileage 68
+Barnet Total Mileage 114
+Burke Paved Pavement 23
+Burke Dirt Gravel 34
+Burke Dirt Graded Earth 2
+Burke Dirt Untravelled 4
+Total Dirt Mileage 40
+Burke Total Mileage 63
+Danville Paved Pavement 31
+Danville Dirt Gravel 64
+Danville Dirt Graded Earth 24
+Danville Dirt Unimproved/Primitive 1
+Danville Dirt Untravelled 14
+Total Dirt Mileage 103
+Danville Total Mileage 134
+TOWN
+GENERIC
+TERM
+VTRANS
+TERM MILES
+SURFACE - BY COUNTY AND TOWN 1/6/2015 Page 8 of 45
+ Public Roads Only -- Mileages are Approximate
+Groton Paved Pavement 19
+Groton Dirt Gravel 22
+Groton Dirt Graded Earth 4
+Groton Dirt Unimproved/Primitive 1
+Groton Dirt Untravelled 5
+Total Dirt Mileage 32
+Groton Total Mileage 51
+Groton Village Paved Pavement 3
+Groton Village Dirt Gravel 2
+Groton Village Dirt Graded Earth 0
+Groton Village Dirt Untravelled 0
+Total Dirt Mileage 3
+Groton Village Total Mileage 6
+Hardwick Paved Pavement 27
+Hardwick Dirt Gravel 38
+Hardwick Dirt Graded Earth 4
+Hardwick Dirt Unimproved/Primitive 1
+Hardwick Dirt Untravelled 4
+Total Dirt Mileage 48
+Hardwick Total Mileage 75
+Hardwick U.C. Paved Pavement 11
+Hardwick U.C. Dirt Gravel 1
+Hardwick U.C. Dirt Graded Earth 0
+Total Dirt Mileage 2
+Hardwick U.C. Total Mileage 12
+Kirby Paved Pavement 1
+Kirby Dirt Gravel 23
+Kirby Dirt Graded Earth 3
+Kirby Dirt Untravelled 4
+Total Dirt Mileage 31
+Kirby Total Mileage 32
+Lyndon Paved Pavement 50
+Lyndon Dirt Gravel 50
+Lyndon Dirt Graded Earth 5
+Lyndon Dirt Unimproved/Primitive 0
+Lyndon Dirt Untravelled 6
+Total Dirt Mileage 62
+Lyndon Total Mileage 112
+Lyndonville Village Paved Pavement 7
+Lyndonville Village Dirt Gravel 0
+Lyndonville Village Dirt Untravelled 0
+Total Dirt Mileage 0
+Lyndonville Village Total Mileage 7
+TOWN
+GENERIC
+TERM
+VTRANS
+TERM MILES
+SURFACE - BY COUNTY AND TOWN 1/6/2015 Page 9 of 45
+ Public Roads Only -- Mileages are Approximate
+Newark Paved Pavement 9
+Newark Dirt Gravel 32
+Newark Dirt Graded Earth 3
+Newark Dirt Unimproved/Primitive 0
+Newark Dirt Untravelled 4
+Total Dirt Mileage 39
+Newark Total Mileage 49
+Peacham Paved Pavement 11
+Peacham Dirt Gravel 41
+Peacham Dirt Graded Earth 20
+Total Dirt Mileage 60
+Peacham Total Mileage 71
+Ryegate Paved Pavement 33
+Ryegate Dirt Gravel 36
+Ryegate Dirt Graded Earth 4
+Ryegate Dirt Unimproved/Primitive 1
+Ryegate Dirt Untravelled 4
+Total Dirt Mileage 44
+Ryegate Total Mileage 77
+Sheffield Paved Pavement 16
+Sheffield Dirt Gravel 28
+Sheffield Dirt Graded Earth 4
+Sheffield Dirt Unimproved/Primitive 5
+Sheffield Dirt Untravelled 6
+Total Dirt Mileage 43
+Sheffield Total Mileage 59
+South Ryegate Village Paved Pavement 3
+South Ryegate Village Dirt Gravel 1
+South Ryegate Village Dirt Untravelled 0
+Total Dirt Mileage 1
+South Ryegate Village Total Mileage 5
+St. Johnsbury Paved Pavement 46
+St. Johnsbury Dirt Gravel 47
+St. Johnsbury Dirt Graded Earth 3
+St. Johnsbury Dirt Unimproved/Primitive 1
+St. Johnsbury Dirt Untravelled 0
+Total Dirt Mileage 51
+St. Johnsbury Total Mileage 97
+St. Johnsbury U.C. Paved Pavement 30
+St. Johnsbury U.C. Dirt Gravel 1
+St. Johnsbury U.C. Dirt Graded Earth 0
+St. Johnsbury U.C. Dirt Unimproved/Primitive 0
+St. Johnsbury U.C. Dirt Untravelled 0
+Total Dirt Mileage 1
+St. Johnsbury U.C. Total Mileage 31
+TOWN
+GENERIC
+TERM
+VTRANS
+TERM MILES
+SURFACE - BY COUNTY AND TOWN 1/6/2015 Page 10 of 45
+ Public Roads Only -- Mileages are Approximate
+Stannard Dirt Gravel 14
+Stannard Dirt Graded Earth 4
+Stannard Dirt Unimproved/Primitive 1
+Stannard Dirt Untravelled 0
+Total Dirt Mileage 18
+Stannard Total Mileage 18
+Sutton Paved Pavement 23
+Sutton Dirt Gravel 32
+Sutton Dirt Graded Earth 6
+Sutton Dirt Unimproved/Primitive 1
+Sutton Dirt Untravelled 2
+Total Dirt Mileage 40
+Sutton Total Mileage 63
+Walden Paved Pavement 10
+Walden Dirt Gravel 38
+Walden Dirt Graded Earth 10
+Walden Dirt Unimproved/Primitive 1
+Walden Dirt Untravelled 2
+Total Dirt Mileage 50
+Walden Total Mileage 60
+Waterford Paved Pavement 32
+Waterford Dirt Gravel 39
+Waterford Dirt Graded Earth 4
+Waterford Dirt Unimproved/Primitive 1
+Waterford Dirt Untravelled 5
+Total Dirt Mileage 49
+Waterford Total Mileage 80
+West Burke Village Paved Pavement 4
+West Burke Village Dirt Gravel 0
+Total Dirt Mileage 0
+West Burke Village Total Mileage 4
+Wheelock Paved Pavement 5
+Wheelock Dirt Gravel 25
+Wheelock Dirt Graded Earth 7
+Wheelock Dirt Unimproved/Primitive 5
+Wheelock Dirt Untravelled 9
+Total Dirt Mileage 46
+Wheelock Total Mileage 51
+CALEDONIA COUNTY TOTAL 1271
+TOWN
+GENERIC
+TERM
+VTRANS
+TERM MILES
+SURFACE - BY COUNTY AND TOWN 1/6/2015 Page 11 of 45
+ Public Roads Only -- Mileages are Approximate
+CHITTENDEN COUNTY
+Bolton Paved Pavement 21
+Bolton Dirt Gravel 8
+Bolton Dirt Graded Earth 3
+Bolton Dirt Unimproved/Primitive 0
+Total Dirt Mileage 11
+Bolton Total Mileage 32
+Buels Gore Paved Pavement 3
+Buels Gore Total Mileage 3
+Burlington City Paved Pavement 95
+Burlington City Dirt Gravel 0
+Burlington City Dirt Untravelled 0
+Total Dirt Mileage 1
+Burlington City Total Mileage 96
+Charlotte Paved Pavement 47
+Charlotte Dirt Gravel 29
+Charlotte Dirt Graded Earth 5
+Charlotte Dirt Untravelled 0
+Total Dirt Mileage 34
+Charlotte Total Mileage 81
+Colchester Paved Pavement 101
+Colchester Dirt Gravel 11
+Colchester Dirt Graded Earth 3
+Colchester Dirt Untravelled 1
+Total Dirt Mileage 15
+Colchester Total Mileage 116
+Essex Paved Pavement 32
+Essex Dirt Gravel 20
+Essex Dirt Graded Earth 2
+Essex Dirt Unimproved/Primitive 2
+Essex Dirt Untravelled 1
+Total Dirt Mileage 25
+Essex Total Mileage 56
+Essex Center U.C. Paved Pavement 44
+Essex Center U.C. Dirt Gravel 1
+Essex Center U.C. Dirt Untravelled 0
+Total Dirt Mileage 1
+Essex Center U.C. Total Mileage 45
+Hinesburg Paved Pavement 30
+Hinesburg Dirt Gravel 29
+Hinesburg Dirt Graded Earth 6
+Hinesburg Dirt Unimproved/Primitive 1
+Hinesburg Dirt Untravelled 1
+Total Dirt Mileage 37
+Hinesburg Total Mileage 66
+TOWN
+GENERIC
+TERM
+VTRANS
+TERM MILES
+SURFACE - BY COUNTY AND TOWN 1/6/2015 Page 12 of 45
+ Public Roads Only -- Mileages are Approximate
+Huntington Paved Pavement 12
+Huntington Dirt Gravel 28
+Huntington Dirt Graded Earth 4
+Huntington Dirt Unimproved/Primitive 2
+Huntington Dirt Untravelled 0
+Total Dirt Mileage 34
+Huntington Total Mileage 46
+Jericho Paved Pavement 30
+Jericho Dirt Gravel 28
+Jericho Dirt Graded Earth 3
+Jericho Dirt Untravelled 2
+Total Dirt Mileage 33
+Jericho Total Mileage 62
+Jericho Village Paved Pavement 7
+Jericho Village Dirt Gravel 2
+Jericho Village Dirt Graded Earth 0
+Jericho Village Dirt Unimproved/Primitive 0
+Jericho Village Dirt Untravelled 0
+Total Dirt Mileage 2
+Jericho Village Total Mileage 9
+Milton Paved Pavement 77
+Milton Dirt Gravel 12
+Milton Dirt Graded Earth 5
+Milton Dirt Untravelled 3
+Total Dirt Mileage 20
+Milton Total Mileage 97
+Milton U.C. Paved Pavement 27
+Milton U.C. Dirt Gravel 0
+Milton U.C. Dirt Graded Earth 0
+Milton U.C. Dirt Unimproved/Primitive 0
+Milton U.C. Dirt Untravelled 0
+Total Dirt Mileage 1
+Milton U.C. Total Mileage 28
+Richmond Paved Pavement 40
+Richmond Dirt Gravel 21
+Richmond Dirt Graded Earth 2
+Richmond Dirt Untravelled 3
+Total Dirt Mileage 25
+Richmond Total Mileage 65
+Shelburne Paved Pavement 57
+Shelburne Dirt Gravel 2
+Shelburne Dirt Untravelled 0
+Total Dirt Mileage 2
+Shelburne Total Mileage 59
+TOWN
+GENERIC
+TERM
+VTRANS
+TERM MILES
+SURFACE - BY COUNTY AND TOWN 1/6/2015 Page 13 of 45
+ Public Roads Only -- Mileages are Approximate
+South Burlington City Paved Pavement 97
+South Burlington City Dirt Untravelled 1
+Total Dirt Mileage 1
+South Burlington City Total Mileage 98
+St. George Paved Pavement 4
+St. George Dirt Gravel 2
+St. George Dirt Untravelled 0
+Total Dirt Mileage 2
+St. George Total Mileage 6
+Underhill Paved Pavement 20
+Underhill Dirt Gravel 33
+Underhill Dirt Graded Earth 9
+Underhill Dirt Unimproved/Primitive 0
+Underhill Dirt Untravelled 1
+Total Dirt Mileage 44
+Underhill Total Mileage 64
+Village of Essex Junction Paved Pavement 35
+Village of Essex Junction Total Mileage 35
+Westford Paved Pavement 12
+Westford Dirt Gravel 34
+Westford Dirt Graded Earth 3
+Westford Dirt Unimproved/Primitive 1
+Westford Dirt Untravelled 1
+Total Dirt Mileage 39
+Westford Total Mileage 51
+Williston Paved Pavement 82
+Williston Dirt Gravel 7
+Williston Dirt Graded Earth 2
+Williston Dirt Unimproved/Primitive 1
+Williston Dirt Untravelled 1
+Total Dirt Mileage 12
+Williston Total Mileage 94
+Winooski City Paved Pavement 19
+Winooski City Dirt Gravel 0
+Winooski City Dirt Graded Earth 0
+Total Dirt Mileage 0
+Winooski City Total Mileage 19
+CHITTENDEN COUNTY TOTAL 1228
+ESSEX COUNTY
+Averill Paved Pavement 1
+Averill Dirt Gravel 4
+Averill Dirt Graded Earth 3
+Total Dirt Mileage 7
+Averill Total Mileage 8
+TOWN
+GENERIC
+TERM
+VTRANS
+TERM MILES
+SURFACE - BY COUNTY AND TOWN 1/6/2015 Page 14 of 45
+ Public Roads Only -- Mileages are Approximate
+Bloomfield Paved Pavement 12
+Bloomfield Dirt Gravel 5
+Bloomfield Dirt Graded Earth 5
+Bloomfield Dirt Unimproved/Primitive 0
+Bloomfield Dirt Untravelled 1
+Total Dirt Mileage 11
+Bloomfield Total Mileage 22
+Brighton Paved Pavement 19
+Brighton Dirt Gravel 16
+Brighton Dirt Graded Earth 4
+Brighton Dirt Unimproved/Primitive 1
+Brighton Dirt Untravelled 0
+Total Dirt Mileage 22
+Brighton Total Mileage 41
+Brunswick Paved Pavement 9
+Brunswick Total Mileage 9
+Canaan Paved Pavement 21
+Canaan Dirt Gravel 14
+Canaan Dirt Graded Earth 7
+Canaan Dirt Unimproved/Primitive 1
+Canaan Dirt Untravelled 3
+Total Dirt Mileage 25
+Canaan Total Mileage 46
+Concord Paved Pavement 19
+Concord Dirt Gravel 45
+Concord Dirt Graded Earth 2
+Concord Dirt Unimproved/Primitive 0
+Concord Dirt Untravelled 12
+Total Dirt Mileage 59
+Concord Total Mileage 78
+East Haven Paved Pavement 5
+East Haven Dirt Gravel 7
+East Haven Dirt Graded Earth 2
+East Haven Dirt Untravelled 1
+Total Dirt Mileage 9
+East Haven Total Mileage 14
+Ferdinand Paved Pavement 5
+Ferdinand Total Mileage 5
+Granby Dirt Gravel 9
+Granby Dirt Graded Earth 1
+Granby Dirt Unimproved/Primitive 0
+Granby Dirt Untravelled 6
+Total Dirt Mileage 17
+Granby Total Mileage 17
+TOWN
+GENERIC
+TERM
+VTRANS
+TERM MILES
+SURFACE - BY COUNTY AND TOWN 1/6/2015 Page 15 of 45
+ Public Roads Only -- Mileages are Approximate
+Guildhall Paved Pavement 10
+Guildhall Dirt Gravel 14
+Guildhall Dirt Graded Earth 2
+Total Dirt Mileage 15
+Guildhall Total Mileage 25
+Island Pond U.C. Paved Pavement 7
+Island Pond U.C. Dirt Gravel 1
+Island Pond U.C. Dirt Graded Earth 0
+Total Dirt Mileage 1
+Island Pond U.C. Total Mileage 8
+Lemington Paved Pavement 7
+Lemington Dirt Gravel 7
+Lemington Dirt Graded Earth 1
+Lemington Dirt Unimproved/Primitive 1
+Lemington Dirt Untravelled 1
+Total Dirt Mileage 9
+Lemington Total Mileage 16
+Lunenburg Paved Pavement 24
+Lunenburg Dirt Gravel 26
+Lunenburg Dirt Graded Earth 9
+Lunenburg Dirt Unimproved/Primitive 3
+Lunenburg Dirt Untravelled 4
+Total Dirt Mileage 42
+Lunenburg Total Mileage 66
+Maidstone Paved Pavement 8
+Maidstone Dirt Gravel 15
+Maidstone Dirt Graded Earth 5
+Maidstone Dirt Unimproved/Primitive 1
+Maidstone Dirt Untravelled 0
+Total Dirt Mileage 21
+Maidstone Total Mileage 29
+Norton Paved Pavement 11
+Norton Dirt Gravel 2
+Norton Dirt Graded Earth 3
+Norton Dirt Untravelled 1
+Total Dirt Mileage 6
+Norton Total Mileage 17
+Victory Paved Pavement 1
+Victory Dirt Gravel 17
+Victory Dirt Graded Earth 2
+Victory Dirt Unimproved/Primitive 0
+Victory Dirt Untravelled 0
+Total Dirt Mileage 20
+Victory Total Mileage 21
+TOWN
+GENERIC
+TERM
+VTRANS
+TERM MILES
+SURFACE - BY COUNTY AND TOWN 1/6/2015 Page 16 of 45
+ Public Roads Only -- Mileages are Approximate
+Warren Gore Paved Pavement 5
+Warren Gore Total Mileage 5
+ESSEX COUNTY TOTAL 426
+FRANKLIN COUNTY
+Bakersfield Paved Pavement 14
+Bakersfield Dirt Gravel 32
+Bakersfield Dirt Graded Earth 8
+Bakersfield Dirt Unimproved/Primitive 2
+Bakersfield Dirt Untravelled 6
+Total Dirt Mileage 47
+Bakersfield Total Mileage 62
+Berkshire Paved Pavement 32
+Berkshire Dirt Gravel 26
+Berkshire Dirt Graded Earth 7
+Berkshire Dirt Unimproved/Primitive 2
+Berkshire Dirt Untravelled 6
+Total Dirt Mileage 42
+Berkshire Total Mileage 73
+Enosburg Paved Pavement 18
+Enosburg Dirt Gravel 43
+Enosburg Dirt Graded Earth 9
+Enosburg Dirt Untravelled 4
+Total Dirt Mileage 56
+Enosburg Total Mileage 75
+Enosburg Falls Village Paved Pavement 12
+Enosburg Falls Village Dirt Gravel 1
+Total Dirt Mileage 1
+Enosburg Falls Village Total Mileage 12
+Fairfax Paved Pavement 41
+Fairfax Dirt Gravel 34
+Fairfax Dirt Graded Earth 5
+Fairfax Dirt Untravelled 4
+Total Dirt Mileage 43
+Fairfax Total Mileage 84
+Fairfield Paved Pavement 33
+Fairfield Dirt Gravel 49
+Fairfield Dirt Graded Earth 23
+Fairfield Dirt Unimproved/Primitive 2
+Fairfield Dirt Untravelled 11
+Total Dirt Mileage 85
+Fairfield Total Mileage 117
+TOWN
+GENERIC
+TERM
+VTRANS
+TERM MILES
+SURFACE - BY COUNTY AND TOWN 1/6/2015 Page 17 of 45
+ Public Roads Only -- Mileages are Approximate
+Fletcher Paved Pavement 14
+Fletcher Dirt Gravel 25
+Fletcher Dirt Graded Earth 8
+Fletcher Dirt Untravelled 6
+Total Dirt Mileage 39
+Fletcher Total Mileage 53
+Franklin Paved Pavement 32
+Franklin Dirt Gravel 24
+Franklin Dirt Graded Earth 3
+Franklin Dirt Unimproved/Primitive 0
+Franklin Dirt Untravelled 4
+Total Dirt Mileage 31
+Franklin Total Mileage 63
+Georgia Paved Pavement 65
+Georgia Dirt Gravel 11
+Georgia Dirt Graded Earth 6
+Georgia Dirt Unimproved/Primitive 2
+Georgia Dirt Untravelled 4
+Total Dirt Mileage 24
+Georgia Total Mileage 89
+Highgate Paved Pavement 61
+Highgate Dirt Gravel 21
+Highgate Dirt Graded Earth 4
+Highgate Dirt Unimproved/Primitive 1
+Highgate Dirt Untravelled 2
+Total Dirt Mileage 29
+Highgate Total Mileage 90
+Montgomery Paved Pavement 20
+Montgomery Dirt Gravel 27
+Montgomery Dirt Graded Earth 13
+Montgomery Dirt Unimproved/Primitive 2
+Montgomery Dirt Untravelled 2
+Total Dirt Mileage 44
+Montgomery Total Mileage 64
+Richford Paved Pavement 23
+Richford Dirt Gravel 19
+Richford Dirt Graded Earth 8
+Richford Dirt Unimproved/Primitive 0
+Richford Dirt Untravelled 2
+Total Dirt Mileage 29
+Richford Total Mileage 52
+Richford U.C. Paved Pavement 9
+Richford U.C. Dirt Gravel 0
+Richford U.C. Dirt Unimproved/Primitive 0
+Total Dirt Mileage 0
+Richford U.C. Total Mileage 10
+TOWN
+GENERIC
+TERM
+VTRANS
+TERM MILES
+SURFACE - BY COUNTY AND TOWN 1/6/2015 Page 18 of 45
+ Public Roads Only -- Mileages are Approximate
+Sheldon Paved Pavement 44
+Sheldon Dirt Gravel 16
+Sheldon Dirt Graded Earth 1
+Sheldon Dirt Unimproved/Primitive 0
+Sheldon Dirt Untravelled 2
+Total Dirt Mileage 19
+Sheldon Total Mileage 63
+St. Albans Paved Pavement 79
+St. Albans Dirt Graded Earth 1
+St. Albans Dirt Unimproved/Primitive 0
+St. Albans Dirt Untravelled 0
+Total Dirt Mileage 1
+St. Albans Total Mileage 80
+St. Albans City Paved Pavement 25
+St. Albans City Dirt Untravelled 0
+Total Dirt Mileage 0
+St. Albans City Total Mileage 25
+Swanton Paved Pavement 79
+Swanton Dirt Gravel 4
+Swanton Dirt Graded Earth 4
+Swanton Dirt Unimproved/Primitive 1
+Swanton Dirt Untravelled 0
+Total Dirt Mileage 9
+Swanton Total Mileage 88
+Swanton Village Paved Pavement 11
+Swanton Village Dirt Graded Earth 0
+Total Dirt Mileage 0
+Swanton Village Total Mileage 11
+FRANKLIN COUNTY TOTAL 1110
+GRAND ISLE COUNTY
+Alburgh Paved Pavement 41
+Alburgh Dirt Gravel 13
+Alburgh Dirt Graded Earth 2
+Alburgh Dirt Untravelled 1
+Total Dirt Mileage 17
+Alburgh Total Mileage 58
+Alburgh Village Paved Pavement 3
+Alburgh Village Dirt Gravel 0
+Total Dirt Mileage 0
+Alburgh Village Total Mileage 3
+TOWN
+GENERIC
+TERM
+VTRANS
+TERM MILES
+SURFACE - BY COUNTY AND TOWN 1/6/2015 Page 19 of 45
+ Public Roads Only -- Mileages are Approximate
+Grand Isle Paved Pavement 37
+Grand Isle Dirt Gravel 1
+Grand Isle Dirt Graded Earth 0
+Grand Isle Dirt Unimproved/Primitive 1
+Total Dirt Mileage 2
+Grand Isle Total Mileage 39
+Isle La Motte Paved Pavement 16
+Isle La Motte Dirt Gravel 3
+Isle La Motte Dirt Graded Earth 1
+Isle La Motte Dirt Untravelled 0
+Total Dirt Mileage 3
+Isle La Motte Total Mileage 19
+North Hero Paved Pavement 27
+North Hero Dirt Gravel 1
+North Hero Dirt Graded Earth 0
+Total Dirt Mileage 1
+North Hero Total Mileage 28
+South Hero Paved Pavement 17
+South Hero Dirt Gravel 11
+South Hero Dirt Graded Earth 1
+Total Dirt Mileage 12
+South Hero Total Mileage 30
+GRAND ISLE COUNTY TOTAL 176
+LAMOILLE COUNTY
+Belvidere Paved Pavement 10
+Belvidere Dirt Gravel 3
+Belvidere Dirt Graded Earth 8
+Belvidere Dirt Unimproved/Primitive 2
+Belvidere Dirt Untravelled 1
+Total Dirt Mileage 14
+Belvidere Total Mileage 24
+Cambridge Paved Pavement 40
+Cambridge Dirt Gravel 35
+Cambridge Dirt Graded Earth 9
+Cambridge Dirt Unimproved/Primitive 0
+Cambridge Dirt Untravelled 6
+Total Dirt Mileage 50
+Cambridge Total Mileage 90
+Cambridge Village Paved Pavement 4
+Cambridge Village Dirt Gravel 0
+Total Dirt Mileage 0
+Cambridge Village Total Mileage 4
+TOWN
+GENERIC
+TERM
+VTRANS
+TERM MILES
+SURFACE - BY COUNTY AND TOWN 1/6/2015 Page 20 of 45
+ Public Roads Only -- Mileages are Approximate
+Eden Paved Pavement 22
+Eden Dirt Gravel 18
+Eden Dirt Graded Earth 12
+Eden Dirt Untravelled 3
+Total Dirt Mileage 33
+Eden Total Mileage 56
+Elmore Paved Pavement 8
+Elmore Dirt Gravel 25
+Elmore Dirt Graded Earth 2
+Elmore Dirt Unimproved/Primitive 1
+Elmore Dirt Untravelled 10
+Total Dirt Mileage 38
+Elmore Total Mileage 46
+Hyde Park Paved Pavement 27
+Hyde Park Dirt Gravel 30
+Hyde Park Dirt Graded Earth 9
+Hyde Park Dirt Unimproved/Primitive 3
+Hyde Park Dirt Untravelled 4
+Total Dirt Mileage 46
+Hyde Park Total Mileage 73
+Hyde Park Village Paved Pavement 7
+Hyde Park Village Dirt Gravel 1
+Hyde Park Village Dirt Untravelled 0
+Total Dirt Mileage 1
+Hyde Park Village Total Mileage 8
+Jeffersonville Village Paved Pavement 4
+Jeffersonville Village Dirt Gravel 0
+Jeffersonville Village Dirt Graded Earth 0
+Total Dirt Mileage 0
+Jeffersonville Village Total Mileage 5
+Johnson Paved Pavement 15
+Johnson Dirt Gravel 35
+Johnson Dirt Graded Earth 9
+Johnson Dirt Unimproved/Primitive 1
+Johnson Dirt Untravelled 7
+Total Dirt Mileage 51
+Johnson Total Mileage 66
+Johnson Village Paved Pavement 6
+Johnson Village Dirt Gravel 0
+Johnson Village Dirt Graded Earth 0
+Johnson Village Dirt Untravelled 0
+Total Dirt Mileage 1
+Johnson Village Total Mileage 7
+TOWN
+GENERIC
+TERM
+VTRANS
+TERM MILES
+SURFACE - BY COUNTY AND TOWN 1/6/2015 Page 21 of 45
+ Public Roads Only -- Mileages are Approximate
+Morristown Paved Pavement 44
+Morristown Dirt Gravel 46
+Morristown Dirt Graded Earth 6
+Morristown Dirt Unimproved/Primitive 2
+Morristown Dirt Untravelled 5
+Total Dirt Mileage 58
+Morristown Total Mileage 102
+Morrisville Village Paved Pavement 13
+Morrisville Village Dirt Gravel 1
+Morrisville Village Dirt Graded Earth 0
+Total Dirt Mileage 1
+Morrisville Village Total Mileage 14
+Stowe Paved Pavement 44
+Stowe Dirt Gravel 51
+Stowe Dirt Graded Earth 6
+Stowe Dirt Unimproved/Primitive 1
+Stowe Dirt Untravelled 8
+Total Dirt Mileage 66
+Stowe Total Mileage 109
+Waterville Paved Pavement 5
+Waterville Dirt Gravel 14
+Waterville Dirt Graded Earth 1
+Waterville Dirt Unimproved/Primitive 1
+Waterville Dirt Untravelled 2
+Total Dirt Mileage 18
+Waterville Total Mileage 23
+Wolcott Paved Pavement 15
+Wolcott Dirt Gravel 35
+Wolcott Dirt Graded Earth 10
+Wolcott Dirt Unimproved/Primitive 1
+Wolcott Dirt Untravelled 3
+Total Dirt Mileage 48
+Wolcott Total Mileage 63
+LAMOILLE COUNTY TOTAL 692
+ORANGE COUNTY
+Bradford Paved Pavement 43
+Bradford Dirt Gravel 24
+Bradford Dirt Graded Earth 7
+Bradford Dirt Untravelled 1
+Total Dirt Mileage 31
+Bradford Total Mileage 75
+TOWN
+GENERIC
+TERM
+VTRANS
+TERM MILES
+SURFACE - BY COUNTY AND TOWN 1/6/2015 Page 22 of 45
+ Public Roads Only -- Mileages are Approximate
+Braintree Paved Pavement 11
+Braintree Dirt Gravel 35
+Braintree Dirt Graded Earth 9
+Braintree Dirt Unimproved/Primitive 3
+Braintree Dirt Untravelled 4
+Total Dirt Mileage 51
+Braintree Total Mileage 62
+Brookfield Paved Pavement 26
+Brookfield Dirt Gravel 49
+Brookfield Dirt Graded Earth 16
+Brookfield Dirt Unimproved/Primitive 0
+Brookfield Dirt Untravelled 6
+Total Dirt Mileage 71
+Brookfield Total Mileage 97
+Chelsea Paved Pavement 16
+Chelsea Dirt Gravel 36
+Chelsea Dirt Graded Earth 22
+Chelsea Dirt Unimproved/Primitive 1
+Chelsea Dirt Untravelled 5
+Total Dirt Mileage 65
+Chelsea Total Mileage 82
+Corinth Paved Pavement 25
+Corinth Dirt Gravel 35
+Corinth Dirt Graded Earth 30
+Corinth Dirt Unimproved/Primitive 3
+Corinth Dirt Untravelled 5
+Total Dirt Mileage 73
+Corinth Total Mileage 98
+Fairlee Paved Pavement 32
+Fairlee Dirt Gravel 3
+Fairlee Dirt Graded Earth 5
+Fairlee Dirt Unimproved/Primitive 3
+Total Dirt Mileage 10
+Fairlee Total Mileage 42
+Newbury Paved Pavement 31
+Newbury Dirt Gravel 53
+Newbury Dirt Graded Earth 18
+Newbury Dirt Unimproved/Primitive 1
+Newbury Dirt Untravelled 4
+Total Dirt Mileage 76
+Newbury Total Mileage 107
+Newbury Village Paved Pavement 6
+Newbury Village Dirt Gravel 2
+Newbury Village Dirt Graded Earth 1
+Total Dirt Mileage 3
+Newbury Village Total Mileage 9
+TOWN
+GENERIC
+TERM
+VTRANS
+TERM MILES
+SURFACE - BY COUNTY AND TOWN 1/6/2015 Page 23 of 45
+ Public Roads Only -- Mileages are Approximate
+Orange Paved Pavement 15
+Orange Dirt Gravel 23
+Orange Dirt Graded Earth 7
+Orange Dirt Untravelled 1
+Total Dirt Mileage 31
+Orange Total Mileage 47
+Randolph Paved Pavement 44
+Randolph Dirt Gravel 56
+Randolph Dirt Graded Earth 5
+Randolph Dirt Untravelled 1
+Total Dirt Mileage 63
+Randolph Total Mileage 107
+Randolph U.C. Paved Pavement 13
+Randolph U.C. Dirt Gravel 2
+Randolph U.C. Dirt Untravelled 0
+Total Dirt Mileage 2
+Randolph U.C. Total Mileage 15
+Strafford Paved Pavement 14
+Strafford Dirt Gravel 39
+Strafford Dirt Graded Earth 24
+Strafford Dirt Unimproved/Primitive 1
+Strafford Dirt Untravelled 3
+Total Dirt Mileage 66
+Strafford Total Mileage 80
+Thetford Paved Pavement 47
+Thetford Dirt Gravel 31
+Thetford Dirt Graded Earth 17
+Thetford Dirt Unimproved/Primitive 3
+Thetford Dirt Untravelled 2
+Total Dirt Mileage 52
+Thetford Total Mileage 99
+Topsham Paved Pavement 23
+Topsham Dirt Gravel 34
+Topsham Dirt Graded Earth 19
+Topsham Dirt Unimproved/Primitive 6
+Topsham Dirt Untravelled 12
+Total Dirt Mileage 71
+Topsham Total Mileage 93
+Tunbridge Paved Pavement 14
+Tunbridge Dirt Gravel 47
+Tunbridge Dirt Graded Earth 22
+Tunbridge Dirt Unimproved/Primitive 3
+Tunbridge Dirt Untravelled 5
+Total Dirt Mileage 78
+Tunbridge Total Mileage 92
+TOWN
+GENERIC
+TERM
+VTRANS
+TERM MILES
+SURFACE - BY COUNTY AND TOWN 1/6/2015 Page 24 of 45
+ Public Roads Only -- Mileages are Approximate
+Vershire Paved Pavement 15
+Vershire Dirt Gravel 17
+Vershire Dirt Graded Earth 18
+Vershire Dirt Unimproved/Primitive 5
+Vershire Dirt Untravelled 5
+Total Dirt Mileage 45
+Vershire Total Mileage 60
+Washington Paved Pavement 7
+Washington Dirt Gravel 31
+Washington Dirt Graded Earth 32
+Washington Dirt Unimproved/Primitive 8
+Washington Dirt Untravelled 13
+Total Dirt Mileage 84
+Washington Total Mileage 91
+Wells River Village Paved Pavement 7
+Wells River Village Dirt Gravel 1
+Wells River Village Dirt Graded Earth 0
+Wells River Village Dirt Untravelled 0
+Total Dirt Mileage 1
+Wells River Village Total Mileage 8
+West Fairlee Paved Pavement 14
+West Fairlee Dirt Gravel 8
+West Fairlee Dirt Graded Earth 8
+West Fairlee Dirt Unimproved/Primitive 6
+West Fairlee Dirt Untravelled 7
+Total Dirt Mileage 29
+West Fairlee Total Mileage 43
+Williamstown Paved Pavement 32
+Williamstown Dirt Gravel 48
+Williamstown Dirt Graded Earth 14
+Williamstown Dirt Unimproved/Primitive 1
+Williamstown Dirt Untravelled 4
+Total Dirt Mileage 67
+Williamstown Total Mileage 99
+ORANGE COUNTY TOTAL 1406
+ORLEANS COUNTY
+Albany Paved Pavement 8
+Albany Dirt Gravel 31
+Albany Dirt Graded Earth 20
+Albany Dirt Unimproved/Primitive 1
+Albany Dirt Untravelled 9
+Total Dirt Mileage 62
+Albany Total Mileage 69
+TOWN
+GENERIC
+TERM
+VTRANS
+TERM MILES
+SURFACE - BY COUNTY AND TOWN 1/6/2015 Page 25 of 45
+ Public Roads Only -- Mileages are Approximate
+Albany Village Paved Pavement 2
+Albany Village Dirt Gravel 0
+Albany Village Dirt Graded Earth 0
+Total Dirt Mileage 1
+Albany Village Total Mileage 3
+Barton Paved Pavement 39
+Barton Dirt Gravel 35
+Barton Dirt Graded Earth 5
+Barton Dirt Unimproved/Primitive 0
+Barton Dirt Untravelled 1
+Total Dirt Mileage 41
+Barton Total Mileage 80
+Barton Village Paved Pavement 9
+Barton Village Dirt Gravel 0
+Barton Village Dirt Untravelled 0
+Total Dirt Mileage 1
+Barton Village Total Mileage 9
+Brownington Paved Pavement 12
+Brownington Dirt Gravel 31
+Brownington Dirt Graded Earth 5
+Brownington Dirt Unimproved/Primitive 1
+Brownington Dirt Untravelled 6
+Total Dirt Mileage 43
+Brownington Total Mileage 55
+Charleston Paved Pavement 19
+Charleston Dirt Gravel 30
+Charleston Dirt Graded Earth 12
+Charleston Dirt Unimproved/Primitive 1
+Charleston Dirt Untravelled 1
+Total Dirt Mileage 45
+Charleston Total Mileage 64
+Coventry Paved Pavement 21
+Coventry Dirt Gravel 29
+Coventry Dirt Graded Earth 5
+Coventry Dirt Unimproved/Primitive 1
+Coventry Dirt Untravelled 5
+Total Dirt Mileage 39
+Coventry Total Mileage 60
+Craftsbury Paved Pavement 19
+Craftsbury Dirt Gravel 37
+Craftsbury Dirt Graded Earth 15
+Craftsbury Dirt Untravelled 4
+Total Dirt Mileage 56
+Craftsbury Total Mileage 75
+TOWN
+GENERIC
+TERM
+VTRANS
+TERM MILES
+SURFACE - BY COUNTY AND TOWN 1/6/2015 Page 26 of 45
+ Public Roads Only -- Mileages are Approximate
+Derby Paved Pavement 57
+Derby Dirt Gravel 40
+Derby Dirt Graded Earth 1
+Derby Dirt Unimproved/Primitive 1
+Derby Dirt Untravelled 1
+Total Dirt Mileage 43
+Derby Total Mileage 100
+Derby Center Village Paved Pavement 4
+Derby Center Village Dirt Gravel 2
+Derby Center Village Dirt Graded Earth 0
+Total Dirt Mileage 2
+Derby Center Village Total Mileage 6
+Derby Line Village Paved Pavement 7
+Derby Line Village Dirt Gravel 0
+Derby Line Village Dirt Graded Earth 0
+Total Dirt Mileage 0
+Derby Line Village Total Mileage 7
+Glover Paved Pavement 18
+Glover Dirt Gravel 35
+Glover Dirt Graded Earth 11
+Glover Dirt Untravelled 4
+Total Dirt Mileage 50
+Glover Total Mileage 68
+Greensboro Paved Pavement 22
+Greensboro Dirt Gravel 29
+Greensboro Dirt Graded Earth 15
+Greensboro Dirt Unimproved/Primitive 1
+Greensboro Dirt Untravelled 7
+Total Dirt Mileage 53
+Greensboro Total Mileage 76
+Holland Paved Pavement 6
+Holland Dirt Gravel 29
+Holland Dirt Graded Earth 10
+Holland Dirt Unimproved/Primitive 1
+Holland Dirt Untravelled 1
+Total Dirt Mileage 41
+Holland Total Mileage 48
+Irasburg Paved Pavement 26
+Irasburg Dirt Gravel 27
+Irasburg Dirt Graded Earth 4
+Irasburg Dirt Unimproved/Primitive 2
+Irasburg Dirt Untravelled 5
+Total Dirt Mileage 39
+Irasburg Total Mileage 65
+TOWN
+GENERIC
+TERM
+VTRANS
+TERM MILES
+SURFACE - BY COUNTY AND TOWN 1/6/2015 Page 27 of 45
+ Public Roads Only -- Mileages are Approximate
+Jay Paved Pavement 19
+Jay Dirt Gravel 19
+Jay Dirt Graded Earth 4
+Jay Dirt Unimproved/Primitive 1
+Jay Dirt Untravelled 3
+Total Dirt Mileage 27
+Jay Total Mileage 46
+Lowell Paved Pavement 26
+Lowell Dirt Gravel 12
+Lowell Dirt Graded Earth 12
+Lowell Dirt Unimproved/Primitive 1
+Lowell Dirt Untravelled 11
+Total Dirt Mileage 37
+Lowell Total Mileage 63
+Morgan Paved Pavement 18
+Morgan Dirt Gravel 19
+Morgan Dirt Graded Earth 4
+Morgan Dirt Unimproved/Primitive 0
+Morgan Dirt Untravelled 1
+Total Dirt Mileage 24
+Morgan Total Mileage 43
+Newport Paved Pavement 25
+Newport Dirt Gravel 26
+Newport Dirt Graded Earth 9
+Newport Dirt Unimproved/Primitive 1
+Newport Dirt Untravelled 6
+Total Dirt Mileage 42
+Newport Total Mileage 67
+Newport City Paved Pavement 35
+Newport City Dirt Gravel 2
+Newport City Dirt Graded Earth 0
+Newport City Dirt Untravelled 0
+Total Dirt Mileage 2
+Newport City Total Mileage 38
+North Troy Village Paved Pavement 6
+North Troy Village Dirt Gravel 1
+North Troy Village Dirt Graded Earth 0
+Total Dirt Mileage 1
+North Troy Village Total Mileage 7
+Orleans Village Paved Pavement 7
+Orleans Village Dirt Graded Earth 0
+Orleans Village Dirt Unimproved/Primitive 0
+Orleans Village Dirt Untravelled 0
+Total Dirt Mileage 0
+Orleans Village Total Mileage 8
+TOWN
+GENERIC
+TERM
+VTRANS
+TERM MILES
+SURFACE - BY COUNTY AND TOWN 1/6/2015 Page 28 of 45
+ Public Roads Only -- Mileages are Approximate
+Troy Paved Pavement 22
+Troy Dirt Gravel 21
+Troy Dirt Graded Earth 9
+Troy Dirt Unimproved/Primitive 0
+Troy Dirt Untravelled 1
+Total Dirt Mileage 32
+Troy Total Mileage 54
+Westfield Paved Pavement 15
+Westfield Dirt Gravel 13
+Westfield Dirt Graded Earth 3
+Westfield Dirt Unimproved/Primitive 1
+Westfield Dirt Untravelled 1
+Total Dirt Mileage 18
+Westfield Total Mileage 33
+Westmore Paved Pavement 13
+Westmore Dirt Gravel 11
+Westmore Dirt Graded Earth 10
+Westmore Dirt Unimproved/Primitive 1
+Westmore Dirt Untravelled 2
+Total Dirt Mileage 24
+Westmore Total Mileage 37
+ORLEANS COUNTY TOTAL 1180
+RUTLAND COUNTY
+Benson Paved Pavement 20
+Benson Dirt Gravel 28
+Benson Dirt Graded Earth 11
+Benson Dirt Unimproved/Primitive 2
+Benson Dirt Untravelled 1
+Total Dirt Mileage 42
+Benson Total Mileage 62
+Brandon Paved Pavement 35
+Brandon Dirt Gravel 20
+Brandon Dirt Graded Earth 10
+Brandon Dirt Unimproved/Primitive 2
+Brandon Dirt Untravelled 2
+Total Dirt Mileage 34
+Brandon Total Mileage 69
+Brandon U.C. Paved Pavement 8
+Brandon U.C. Dirt Gravel 2
+Brandon U.C. Dirt Graded Earth 0
+Brandon U.C. Dirt Untravelled 0
+Total Dirt Mileage 2
+Brandon U.C. Total Mileage 11
+TOWN
+GENERIC
+TERM
+VTRANS
+TERM MILES
+SURFACE - BY COUNTY AND TOWN 1/6/2015 Page 29 of 45
+ Public Roads Only -- Mileages are Approximate
+Castleton Paved Pavement 49
+Castleton Dirt Gravel 24
+Castleton Dirt Graded Earth 6
+Castleton Dirt Unimproved/Primitive 0
+Castleton Dirt Untravelled 3
+Total Dirt Mileage 33
+Castleton Total Mileage 82
+Chittenden Paved Pavement 16
+Chittenden Dirt Gravel 7
+Chittenden Dirt Graded Earth 10
+Chittenden Dirt Unimproved/Primitive 14
+Chittenden Dirt Untravelled 2
+Total Dirt Mileage 33
+Chittenden Total Mileage 49
+Clarendon Paved Pavement 41
+Clarendon Dirt Gravel 17
+Clarendon Dirt Graded Earth 6
+Clarendon Dirt Unimproved/Primitive 1
+Clarendon Dirt Untravelled 0
+Total Dirt Mileage 24
+Clarendon Total Mileage 66
+Danby Paved Pavement 19
+Danby Dirt Gravel 26
+Danby Dirt Graded Earth 11
+Danby Dirt Unimproved/Primitive 0
+Danby Dirt Untravelled 1
+Total Dirt Mileage 38
+Danby Total Mileage 57
+Fair Haven Paved Pavement 21
+Fair Haven Dirt Gravel 3
+Fair Haven Dirt Graded Earth 1
+Fair Haven Dirt Untravelled 0
+Total Dirt Mileage 4
+Fair Haven Total Mileage 25
+Fair Haven U.C. Paved Pavement 12
+Fair Haven U.C. Dirt Gravel 0
+Fair Haven U.C. Dirt Graded Earth 0
+Fair Haven U.C. Dirt Unimproved/Primitive 0
+Fair Haven U.C. Dirt Untravelled 0
+Total Dirt Mileage 1
+Fair Haven U.C. Total Mileage 13
+TOWN
+GENERIC
+TERM
+VTRANS
+TERM MILES
+SURFACE - BY COUNTY AND TOWN 1/6/2015 Page 30 of 45
+ Public Roads Only -- Mileages are Approximate
+Hubbardton Paved Pavement 16
+Hubbardton Dirt Gravel 14
+Hubbardton Dirt Graded Earth 6
+Hubbardton Dirt Unimproved/Primitive 0
+Hubbardton Dirt Untravelled 1
+Total Dirt Mileage 21
+Hubbardton Total Mileage 37
+Ira Paved Pavement 7
+Ira Dirt Gravel 6
+Ira Dirt Graded Earth 4
+Ira Dirt Untravelled 1
+Total Dirt Mileage 11
+Ira Total Mileage 18
+Killington Paved Pavement 31
+Killington Dirt Gravel 22
+Killington Dirt Graded Earth 6
+Killington Dirt Untravelled 4
+Total Dirt Mileage 32
+Killington Total Mileage 64
+Mendon Paved Pavement 17
+Mendon Dirt Gravel 4
+Mendon Dirt Graded Earth 9
+Mendon Dirt Untravelled 0
+Total Dirt Mileage 14
+Mendon Total Mileage 30
+Middletown Springs Paved Pavement 10
+Middletown Springs Dirt Gravel 16
+Middletown Springs Dirt Graded Earth 8
+Middletown Springs Dirt Unimproved/Primitive 1
+Middletown Springs Dirt Untravelled 1
+Total Dirt Mileage 27
+Middletown Springs Total Mileage 37
+Mount Holly Paved Pavement 31
+Mount Holly Dirt Gravel 21
+Mount Holly Dirt Graded Earth 25
+Mount Holly Dirt Unimproved/Primitive 3
+Mount Holly Dirt Untravelled 6
+Total Dirt Mileage 54
+Mount Holly Total Mileage 85
+Mount Tabor Paved Pavement 8
+Mount Tabor Dirt Gravel 1
+Total Dirt Mileage 1
+Mount Tabor Total Mileage 8
+TOWN
+GENERIC
+TERM
+VTRANS
+TERM MILES
+SURFACE - BY COUNTY AND TOWN 1/6/2015 Page 31 of 45
+ Public Roads Only -- Mileages are Approximate
+Pawlet Paved Pavement 28
+Pawlet Dirt Gravel 20
+Pawlet Dirt Graded Earth 7
+Pawlet Dirt Unimproved/Primitive 1
+Total Dirt Mileage 28
+Pawlet Total Mileage 57
+Pittsfield Paved Pavement 5
+Pittsfield Dirt Gravel 12
+Pittsfield Dirt Graded Earth 8
+Pittsfield Dirt Unimproved/Primitive 3
+Pittsfield Dirt Untravelled 2
+Total Dirt Mileage 25
+Pittsfield Total Mileage 30
+Pittsford Paved Pavement 48
+Pittsford Dirt Gravel 13
+Pittsford Dirt Graded Earth 5
+Pittsford Dirt Unimproved/Primitive 0
+Pittsford Dirt Untravelled 1
+Total Dirt Mileage 19
+Pittsford Total Mileage 67
+Poultney Paved Pavement 32
+Poultney Dirt Gravel 29
+Poultney Dirt Graded Earth 10
+Poultney Dirt Unimproved/Primitive 1
+Poultney Dirt Untravelled 4
+Total Dirt Mileage 44
+Poultney Total Mileage 76
+Poultney Village Paved Pavement 5
+Poultney Village Total Mileage 5
+Proctor Paved Pavement 8
+Proctor Dirt Graded Earth 0
+Proctor Dirt Untravelled 0
+Total Dirt Mileage 0
+Proctor Total Mileage 9
+Proctor U.C. Paved Pavement 14
+Proctor U.C. Dirt Gravel 0
+Proctor U.C. Dirt Untravelled 0
+Total Dirt Mileage 0
+Proctor U.C. Total Mileage 14
+Rutland Paved Pavement 58
+Rutland Dirt Graded Earth 1
+Rutland Dirt Untravelled 0
+Total Dirt Mileage 1
+Rutland Total Mileage 59
+TOWN
+GENERIC
+TERM
+VTRANS
+TERM MILES
+SURFACE - BY COUNTY AND TOWN 1/6/2015 Page 32 of 45
+ Public Roads Only -- Mileages are Approximate
+Rutland City Paved Pavement 76
+Rutland City Dirt Gravel 0
+Rutland City Dirt Unimproved/Primitive 0
+Rutland City Dirt Untravelled 1
+Total Dirt Mileage 1
+Rutland City Total Mileage 77
+Shrewsbury Paved Pavement 22
+Shrewsbury Dirt Gravel 23
+Shrewsbury Dirt Graded Earth 18
+Shrewsbury Dirt Unimproved/Primitive 2
+Shrewsbury Dirt Untravelled 6
+Total Dirt Mileage 48
+Shrewsbury Total Mileage 70
+Sudbury Paved Pavement 17
+Sudbury Dirt Gravel 10
+Sudbury Dirt Graded Earth 6
+Sudbury Dirt Unimproved/Primitive 1
+Sudbury Dirt Untravelled 1
+Total Dirt Mileage 17
+Sudbury Total Mileage 34
+Tinmouth Paved Pavement 16
+Tinmouth Dirt Gravel 13
+Tinmouth Dirt Graded Earth 9
+Tinmouth Dirt Unimproved/Primitive 1
+Tinmouth Dirt Untravelled 0
+Total Dirt Mileage 23
+Tinmouth Total Mileage 39
+Wallingford Paved Pavement 22
+Wallingford Dirt Gravel 24
+Wallingford Dirt Graded Earth 10
+Wallingford Dirt Unimproved/Primitive 0
+Wallingford Dirt Untravelled 4
+Total Dirt Mileage 38
+Wallingford Total Mileage 60
+Wallingford U.C. Paved Pavement 7
+Wallingford U.C. Dirt Gravel 0
+Wallingford U.C. Dirt Graded Earth 0
+Total Dirt Mileage 0
+Wallingford U.C. Total Mileage 7
+Wells Town Paved Pavement 17
+Wells Town Dirt Gravel 17
+Wells Town Dirt Graded Earth 8
+Wells Town Dirt Untravelled 4
+Total Dirt Mileage 29
+Wells Town Total Mileage 46
+TOWN
+GENERIC
+TERM
+VTRANS
+TERM MILES
+SURFACE - BY COUNTY AND TOWN 1/6/2015 Page 33 of 45
+ Public Roads Only -- Mileages are Approximate
+West Haven Paved Pavement 12
+West Haven Dirt Gravel 9
+West Haven Dirt Graded Earth 18
+West Haven Dirt Unimproved/Primitive 0
+West Haven Dirt Untravelled 5
+Total Dirt Mileage 32
+West Haven Total Mileage 44
+West Rutland Paved Pavement 17
+West Rutland Dirt Gravel 4
+West Rutland Dirt Graded Earth 2
+West Rutland Dirt Unimproved/Primitive 2
+West Rutland Dirt Untravelled 0
+Total Dirt Mileage 8
+West Rutland Total Mileage 25
+West Rutland U.C. Paved Pavement 15
+West Rutland U.C. Dirt Gravel 1
+West Rutland U.C. Dirt Graded Earth 0
+Total Dirt Mileage 1
+West Rutland U.C. Total Mileage 16
+RUTLAND COUNTY TOTAL 1448
+WASHINGTON COUNTY
+Barre Paved Pavement 77
+Barre Dirt Gravel 29
+Barre Dirt Graded Earth 1
+Barre Dirt Unimproved/Primitive 1
+Barre Dirt Untravelled 3
+Total Dirt Mileage 34
+Barre Total Mileage 112
+Barre City Paved Pavement 49
+Barre City Total Mileage 49
+Berlin Paved Pavement 36
+Berlin Dirt Gravel 40
+Berlin Dirt Graded Earth 3
+Berlin Dirt Unimproved/Primitive 2
+Berlin Dirt Untravelled 3
+Total Dirt Mileage 48
+Berlin Total Mileage 84
+Cabot Paved Pavement 19
+Cabot Dirt Gravel 44
+Cabot Dirt Graded Earth 7
+Cabot Dirt Unimproved/Primitive 0
+Cabot Dirt Untravelled 2
+Total Dirt Mileage 53
+Cabot Total Mileage 72
+TOWN
+GENERIC
+TERM
+VTRANS
+TERM MILES
+SURFACE - BY COUNTY AND TOWN 1/6/2015 Page 34 of 45
+ Public Roads Only -- Mileages are Approximate
+Calais Paved Pavement 11
+Calais Dirt Gravel 68
+Calais Dirt Graded Earth 6
+Calais Dirt Unimproved/Primitive 1
+Calais Dirt Untravelled 7
+Total Dirt Mileage 82
+Calais Total Mileage 92
+Duxbury Paved Pavement 9
+Duxbury Dirt Gravel 27
+Duxbury Dirt Graded Earth 3
+Total Dirt Mileage 30
+Duxbury Total Mileage 39
+East Montpelier Paved Pavement 24
+East Montpelier Dirt Gravel 48
+East Montpelier Dirt Graded Earth 3
+East Montpelier Dirt Untravelled 1
+Total Dirt Mileage 53
+East Montpelier Total Mileage 77
+Fayston Paved Pavement 12
+Fayston Dirt Gravel 28
+Fayston Dirt Graded Earth 3
+Fayston Dirt Unimproved/Primitive 1
+Fayston Dirt Untravelled 2
+Total Dirt Mileage 34
+Fayston Total Mileage 46
+Marshfield Paved Pavement 13
+Marshfield Dirt Gravel 40
+Marshfield Dirt Graded Earth 8
+Marshfield Dirt Unimproved/Primitive 1
+Marshfield Dirt Untravelled 1
+Total Dirt Mileage 50
+Marshfield Total Mileage 63
+Marshfield Village Paved Pavement 2
+Marshfield Village Dirt Gravel 1
+Total Dirt Mileage 1
+Marshfield Village Total Mileage 2
+Middlesex Paved Pavement 23
+Middlesex Dirt Gravel 42
+Middlesex Dirt Graded Earth 5
+Middlesex Dirt Unimproved/Primitive 2
+Middlesex Dirt Untravelled 3
+Total Dirt Mileage 52
+Middlesex Total Mileage 75
+TOWN
+GENERIC
+TERM
+VTRANS
+TERM MILES
+SURFACE - BY COUNTY AND TOWN 1/6/2015 Page 35 of 45
+ Public Roads Only -- Mileages are Approximate
+Montpelier City Paved Pavement 52
+Montpelier City Dirt Gravel 4
+Montpelier City Dirt Graded Earth 0
+Total Dirt Mileage 5
+Montpelier City Total Mileage 57
+Moretown Paved Pavement 14
+Moretown Dirt Gravel 35
+Moretown Dirt Graded Earth 8
+Moretown Dirt Unimproved/Primitive 3
+Moretown Dirt Untravelled 2
+Total Dirt Mileage 48
+Moretown Total Mileage 62
+Northfield Paved Pavement 34
+Northfield Dirt Gravel 50
+Northfield Dirt Graded Earth 5
+Northfield Dirt Unimproved/Primitive 2
+Northfield Dirt Untravelled 3
+Total Dirt Mileage 60
+Northfield Total Mileage 94
+Plainfield Paved Pavement 6
+Plainfield Dirt Gravel 35
+Plainfield Dirt Graded Earth 1
+Plainfield Dirt Unimproved/Primitive 1
+Plainfield Dirt Untravelled 2
+Total Dirt Mileage 38
+Plainfield Total Mileage 45
+Roxbury Paved Pavement 10
+Roxbury Dirt Gravel 32
+Roxbury Dirt Graded Earth 8
+Roxbury Dirt Unimproved/Primitive 1
+Roxbury Dirt Untravelled 2
+Total Dirt Mileage 43
+Roxbury Total Mileage 53
+Waitsfield Paved Pavement 17
+Waitsfield Dirt Gravel 19
+Waitsfield Dirt Graded Earth 6
+Waitsfield Dirt Unimproved/Primitive 0
+Waitsfield Dirt Untravelled 1
+Total Dirt Mileage 26
+Waitsfield Total Mileage 43
+TOWN
+GENERIC
+TERM
+VTRANS
+TERM MILES
+SURFACE - BY COUNTY AND TOWN 1/6/2015 Page 36 of 45
+ Public Roads Only -- Mileages are Approximate
+Warren Paved Pavement 24
+Warren Dirt Gravel 27
+Warren Dirt Graded Earth 3
+Warren Dirt Unimproved/Primitive 2
+Warren Dirt Untravelled 2
+Total Dirt Mileage 35
+Warren Total Mileage 59
+Waterbury Paved Pavement 30
+Waterbury Dirt Gravel 26
+Waterbury Dirt Graded Earth 3
+Waterbury Dirt Unimproved/Primitive 1
+Waterbury Dirt Untravelled 0
+Total Dirt Mileage 31
+Waterbury Total Mileage 61
+Waterbury Village Paved Pavement 11
+Waterbury Village Dirt Gravel 2
+Waterbury Village Dirt Unimproved/Primitive 0
+Waterbury Village Dirt Untravelled 0
+Total Dirt Mileage 3
+Waterbury Village Total Mileage 13
+Woodbury Paved Pavement 8
+Woodbury Dirt Gravel 37
+Woodbury Dirt Graded Earth 4
+Woodbury Dirt Unimproved/Primitive 12
+Woodbury Dirt Untravelled 10
+Total Dirt Mileage 63
+Woodbury Total Mileage 71
+Worcester Paved Pavement 11
+Worcester Dirt Gravel 17
+Worcester Dirt Graded Earth 3
+Worcester Dirt Untravelled 0
+Total Dirt Mileage 20
+Worcester Total Mileage 31
+WASHINGTON COUNTY TOTAL 1300
+WINDHAM COUNTY
+Athens Paved Pavement 6
+Athens Dirt Gravel 11
+Athens Dirt Graded Earth 3
+Athens Dirt Untravelled 2
+Total Dirt Mileage 15
+Athens Total Mileage 21
+TOWN
+GENERIC
+TERM
+VTRANS
+TERM MILES
+SURFACE - BY COUNTY AND TOWN 1/6/2015 Page 37 of 45
+ Public Roads Only -- Mileages are Approximate
+Bellows Falls Village Paved Pavement 15
+Bellows Falls Village Dirt Gravel 0
+Bellows Falls Village Dirt Untravelled 0
+Total Dirt Mileage 1
+Bellows Falls Village Total Mileage 16
+Brattleboro Paved Pavement 42
+Brattleboro Dirt Gravel 26
+Brattleboro Dirt Graded Earth 2
+Brattleboro Dirt Unimproved/Primitive 1
+Brattleboro Dirt Untravelled 3
+Total Dirt Mileage 32
+Brattleboro Total Mileage 74
+Brattleboro U.C. Paved Pavement 35
+Brattleboro U.C. Dirt Gravel 0
+Brattleboro U.C. Dirt Untravelled 0
+Total Dirt Mileage 1
+Brattleboro U.C. Total Mileage 36
+Brookline Paved Pavement 8
+Brookline Dirt Gravel 7
+Brookline Dirt Graded Earth 2
+Brookline Dirt Unimproved/Primitive 1
+Total Dirt Mileage 10
+Brookline Total Mileage 18
+Dover Paved Pavement 29
+Dover Dirt Gravel 33
+Dover Dirt Graded Earth 3
+Dover Dirt Unimproved/Primitive 2
+Dover Dirt Untravelled 1
+Total Dirt Mileage 38
+Dover Total Mileage 67
+Dummerston Paved Pavement 30
+Dummerston Dirt Gravel 42
+Dummerston Dirt Graded Earth 9
+Dummerston Dirt Unimproved/Primitive 1
+Dummerston Dirt Untravelled 1
+Total Dirt Mileage 53
+Dummerston Total Mileage 82
+Grafton Paved Pavement 17
+Grafton Dirt Gravel 29
+Grafton Dirt Graded Earth 5
+Grafton Dirt Unimproved/Primitive 4
+Grafton Dirt Untravelled 3
+Total Dirt Mileage 41
+Grafton Total Mileage 57
+TOWN
+GENERIC
+TERM
+VTRANS
+TERM MILES
+SURFACE - BY COUNTY AND TOWN 1/6/2015 Page 38 of 45
+ Public Roads Only -- Mileages are Approximate
+Guilford Paved Pavement 24
+Guilford Dirt Gravel 47
+Guilford Dirt Graded Earth 8
+Guilford Dirt Unimproved/Primitive 3
+Guilford Dirt Untravelled 6
+Total Dirt Mileage 64
+Guilford Total Mileage 88
+Halifax Paved Pavement 14
+Halifax Dirt Gravel 44
+Halifax Dirt Graded Earth 14
+Halifax Dirt Unimproved/Primitive 2
+Halifax Dirt Untravelled 4
+Total Dirt Mileage 63
+Halifax Total Mileage 77
+Jacksonville Village Paved Pavement 4
+Jacksonville Village Dirt Gravel 1
+Total Dirt Mileage 1
+Jacksonville Village Total Mileage 4
+Jamaica Paved Pavement 22
+Jamaica Dirt Gravel 38
+Jamaica Dirt Graded Earth 5
+Jamaica Dirt Unimproved/Primitive 0
+Jamaica Dirt Untravelled 2
+Total Dirt Mileage 45
+Jamaica Total Mileage 67
+Londonderry Paved Pavement 35
+Londonderry Dirt Gravel 24
+Londonderry Dirt Graded Earth 10
+Londonderry Dirt Unimproved/Primitive 1
+Londonderry Dirt Untravelled 3
+Total Dirt Mileage 37
+Londonderry Total Mileage 73
+Marlboro Paved Pavement 14
+Marlboro Dirt Gravel 43
+Marlboro Dirt Graded Earth 7
+Marlboro Dirt Untravelled 1
+Total Dirt Mileage 50
+Marlboro Total Mileage 64
+Newfane Paved Pavement 19
+Newfane Dirt Gravel 39
+Newfane Dirt Graded Earth 10
+Newfane Dirt Untravelled 1
+Total Dirt Mileage 50
+Newfane Total Mileage 69
+TOWN
+GENERIC
+TERM
+VTRANS
+TERM MILES
+SURFACE - BY COUNTY AND TOWN 1/6/2015 Page 39 of 45
+ Public Roads Only -- Mileages are Approximate
+Newfane Village Paved Pavement 1
+Newfane Village Dirt Gravel 0
+Total Dirt Mileage 0
+Newfane Village Total Mileage 1
+Putney Paved Pavement 27
+Putney Dirt Gravel 39
+Putney Dirt Graded Earth 2
+Putney Dirt Untravelled 3
+Total Dirt Mileage 44
+Putney Total Mileage 71
+Rockingham Paved Pavement 51
+Rockingham Dirt Gravel 29
+Rockingham Dirt Graded Earth 3
+Rockingham Dirt Unimproved/Primitive 3
+Rockingham Dirt Untravelled 10
+Total Dirt Mileage 45
+Rockingham Total Mileage 96
+Saxtons River Village Paved Pavement 5
+Saxtons River Village Dirt Gravel 0
+Saxtons River Village Dirt Graded Earth 0
+Total Dirt Mileage 1
+Saxtons River Village Total Mileage 5
+Somerset Dirt Gravel 5
+Somerset Dirt Untravelled 3
+Total Dirt Mileage 8
+Somerset Total Mileage 8
+Stratton Paved Pavement 17
+Stratton Dirt Gravel 12
+Stratton Dirt Graded Earth 0
+Total Dirt Mileage 12
+Stratton Total Mileage 30
+Townshend Paved Pavement 20
+Townshend Dirt Gravel 40
+Townshend Dirt Graded Earth 2
+Townshend Dirt Unimproved/Primitive 4
+Townshend Dirt Untravelled 1
+Total Dirt Mileage 48
+Townshend Total Mileage 67
+Townshend Village Paved Pavement 1
+Townshend Village Dirt Gravel 0
+Total Dirt Mileage 0
+Townshend Village Total Mileage 1
+TOWN
+GENERIC
+TERM
+VTRANS
+TERM MILES
+SURFACE - BY COUNTY AND TOWN 1/6/2015 Page 40 of 45
+ Public Roads Only -- Mileages are Approximate
+Vernon Paved Pavement 35
+Vernon Dirt Gravel 2
+Vernon Dirt Untravelled 0
+Total Dirt Mileage 3
+Vernon Total Mileage 37
+W. Brattleboro U.C. Paved Pavement 5
+W. Brattleboro U.C. Total Mileage 5
+Wardsboro Paved Pavement 15
+Wardsboro Dirt Gravel 37
+Wardsboro Dirt Graded Earth 2
+Wardsboro Dirt Unimproved/Primitive 0
+Wardsboro Dirt Untravelled 6
+Total Dirt Mileage 45
+Wardsboro Total Mileage 61
+Westminster Paved Pavement 38
+Westminster Dirt Gravel 45
+Westminster Dirt Graded Earth 3
+Westminster Dirt Unimproved/Primitive 1
+Westminster Dirt Untravelled 4
+Total Dirt Mileage 53
+Westminster Total Mileage 90
+Westminster Village Paved Pavement 3
+Westminster Village Dirt Gravel 1
+Westminster Village Dirt Graded Earth 0
+Westminster Village Dirt Untravelled 1
+Total Dirt Mileage 2
+Westminster Village Total Mileage 5
+Whitingham Paved Pavement 39
+Whitingham Dirt Gravel 27
+Whitingham Dirt Graded Earth 4
+Whitingham Dirt Unimproved/Primitive 0
+Whitingham Dirt Untravelled 2
+Total Dirt Mileage 33
+Whitingham Total Mileage 72
+Wilmington Paved Pavement 37
+Wilmington Dirt Gravel 45
+Wilmington Dirt Graded Earth 2
+Wilmington Dirt Unimproved/Primitive 1
+Wilmington Dirt Untravelled 3
+Total Dirt Mileage 51
+Wilmington Total Mileage 88
+TOWN
+GENERIC
+TERM
+VTRANS
+TERM MILES
+SURFACE - BY COUNTY AND TOWN 1/6/2015 Page 41 of 45
+ Public Roads Only -- Mileages are Approximate
+Windham Paved Pavement 10
+Windham Dirt Gravel 20
+Windham Dirt Graded Earth 4
+Windham Dirt Unimproved/Primitive 1
+Windham Dirt Untravelled 0
+Total Dirt Mileage 25
+Windham Total Mileage 35
+WINDHAM COUNTY TOTAL 1487
+WINDSOR COUNTY
+Andover Paved Pavement 12
+Andover Dirt Gravel 20
+Andover Dirt Graded Earth 12
+Andover Dirt Unimproved/Primitive 1
+Andover Dirt Untravelled 3
+Total Dirt Mileage 37
+Andover Total Mileage 49
+Baltimore Dirt Gravel 7
+Baltimore Dirt Graded Earth 0
+Baltimore Dirt Untravelled 0
+Total Dirt Mileage 7
+Baltimore Total Mileage 7
+Barnard Paved Pavement 15
+Barnard Dirt Gravel 45
+Barnard Dirt Graded Earth 12
+Barnard Dirt Unimproved/Primitive 6
+Barnard Dirt Untravelled 33
+Total Dirt Mileage 97
+Barnard Total Mileage 112
+Bethel Paved Pavement 30
+Bethel Dirt Gravel 50
+Bethel Dirt Graded Earth 6
+Bethel Dirt Unimproved/Primitive 4
+Bethel Dirt Untravelled 28
+Total Dirt Mileage 89
+Bethel Total Mileage 119
+Bridgewater Paved Pavement 18
+Bridgewater Dirt Gravel 32
+Bridgewater Dirt Graded Earth 16
+Bridgewater Dirt Unimproved/Primitive 1
+Bridgewater Dirt Untravelled 0
+Total Dirt Mileage 49
+Bridgewater Total Mileage 66
+TOWN
+GENERIC
+TERM
+VTRANS
+TERM MILES
+SURFACE - BY COUNTY AND TOWN 1/6/2015 Page 42 of 45
+ Public Roads Only -- Mileages are Approximate
+Cavendish Paved Pavement 25
+Cavendish Dirt Gravel 38
+Cavendish Dirt Graded Earth 6
+Cavendish Dirt Unimproved/Primitive 0
+Cavendish Dirt Untravelled 3
+Total Dirt Mileage 46
+Cavendish Total Mileage 71
+Chester Paved Pavement 28
+Chester Dirt Gravel 42
+Chester Dirt Graded Earth 27
+Chester Dirt Unimproved/Primitive 3
+Chester Dirt Untravelled 14
+Total Dirt Mileage 86
+Chester Total Mileage 114
+Chester-Chester Depot U.C. Paved Pavement 11
+Chester-Chester Depot U.C. Dirt Gravel 2
+Chester-Chester Depot U.C. Dirt Graded Earth 0
+Chester-Chester Depot U.C. Dirt Untravelled 0
+Total Dirt Mileage 2
+Chester-Chester Depot U.C. Total Mileage 13
+Hartford Paved Pavement 115
+Hartford Dirt Gravel 26
+Hartford Dirt Graded Earth 11
+Hartford Dirt Unimproved/Primitive 0
+Hartford Dirt Untravelled 6
+Total Dirt Mileage 43
+Hartford Total Mileage 159
+Hartland Paved Pavement 40
+Hartland Dirt Gravel 36
+Hartland Dirt Graded Earth 25
+Hartland Dirt Unimproved/Primitive 1
+Hartland Dirt Untravelled 1
+Total Dirt Mileage 63
+Hartland Total Mileage 103
+Ludlow Paved Pavement 26
+Ludlow Dirt Gravel 37
+Ludlow Dirt Graded Earth 3
+Ludlow Dirt Unimproved/Primitive 1
+Ludlow Dirt Untravelled 2
+Total Dirt Mileage 43
+Ludlow Total Mileage 68
+Ludlow Village Paved Pavement 10
+Ludlow Village Dirt Gravel 0
+Total Dirt Mileage 0
+Ludlow Village Total Mileage 10
+TOWN
+GENERIC
+TERM
+VTRANS
+TERM MILES
+SURFACE - BY COUNTY AND TOWN 1/6/2015 Page 43 of 45
+ Public Roads Only -- Mileages are Approximate
+North Springfield U.C. Paved Pavement 19
+North Springfield U.C. Dirt Gravel 0
+North Springfield U.C. Dirt Graded Earth 1
+North Springfield U.C. Dirt Unimproved/Primitive 0
+North Springfield U.C. Dirt Untravelled 0
+Total Dirt Mileage 1
+North Springfield U.C. Total Mileage 20
+Norwich Paved Pavement 50
+Norwich Dirt Gravel 28
+Norwich Dirt Graded Earth 18
+Norwich Dirt Unimproved/Primitive 5
+Norwich Dirt Untravelled 12
+Total Dirt Mileage 63
+Norwich Total Mileage 113
+Perkinsville Village Paved Pavement 1
+Perkinsville Village Dirt Gravel 0
+Total Dirt Mileage 0
+Perkinsville Village Total Mileage 2
+Plymouth Paved Pavement 23
+Plymouth Dirt Gravel 28
+Plymouth Dirt Graded Earth 9
+Plymouth Dirt Unimproved/Primitive 1
+Plymouth Dirt Untravelled 18
+Total Dirt Mileage 56
+Plymouth Total Mileage 79
+Pomfret Paved Pavement 16
+Pomfret Dirt Gravel 35
+Pomfret Dirt Graded Earth 17
+Pomfret Dirt Unimproved/Primitive 2
+Pomfret Dirt Untravelled 1
+Total Dirt Mileage 54
+Pomfret Total Mileage 70
+Reading Paved Pavement 15
+Reading Dirt Gravel 31
+Reading Dirt Graded Earth 4
+Reading Dirt Unimproved/Primitive 5
+Reading Dirt Untravelled 10
+Total Dirt Mileage 49
+Reading Total Mileage 64
+Rochester Paved Pavement 27
+Rochester Dirt Gravel 29
+Rochester Dirt Graded Earth 12
+Rochester Dirt Unimproved/Primitive 3
+Rochester Dirt Untravelled 5
+Total Dirt Mileage 49
+Rochester Total Mileage 77
+TOWN
+GENERIC
+TERM
+VTRANS
+TERM MILES
+SURFACE - BY COUNTY AND TOWN 1/6/2015 Page 44 of 45
+ Public Roads Only -- Mileages are Approximate
+Royalton Paved Pavement 37
+Royalton Dirt Gravel 55
+Royalton Dirt Graded Earth 2
+Royalton Dirt Unimproved/Primitive 4
+Royalton Dirt Untravelled 5
+Total Dirt Mileage 67
+Royalton Total Mileage 104
+Sharon Paved Pavement 28
+Sharon Dirt Gravel 28
+Sharon Dirt Graded Earth 10
+Sharon Dirt Unimproved/Primitive 1
+Sharon Dirt Untravelled 3
+Total Dirt Mileage 43
+Sharon Total Mileage 70
+Springfield Paved Pavement 70
+Springfield Dirt Gravel 25
+Springfield Dirt Graded Earth 6
+Springfield Dirt Untravelled 2
+Total Dirt Mileage 33
+Springfield Total Mileage 103
+Springfield U.C. Paved Pavement 31
+Springfield U.C. Dirt Graded Earth 0
+Total Dirt Mileage 0
+Springfield U.C. Total Mileage 31
+Stockbridge Paved Pavement 17
+Stockbridge Dirt Gravel 31
+Stockbridge Dirt Graded Earth 10
+Stockbridge Dirt Unimproved/Primitive 5
+Stockbridge Dirt Untravelled 13
+Total Dirt Mileage 60
+Stockbridge Total Mileage 76
+Weathersfield Paved Pavement 45
+Weathersfield Dirt Gravel 40
+Weathersfield Dirt Graded Earth 14
+Weathersfield Dirt Unimproved/Primitive 1
+Weathersfield Dirt Untravelled 11
+Total Dirt Mileage 66
+Weathersfield Total Mileage 111
+West Windsor Paved Pavement 11
+West Windsor Dirt Gravel 41
+West Windsor Dirt Graded Earth 3
+West Windsor Dirt Unimproved/Primitive 1
+West Windsor Dirt Untravelled 0
+Total Dirt Mileage 45
+West Windsor Total Mileage 56
+TOWN
+GENERIC
+TERM
+VTRANS
+TERM MILES
+SURFACE - BY COUNTY AND TOWN 1/6/2015 Page 45 of 45
+ Public Roads Only -- Mileages are Approximate
+Weston Paved Pavement 14
+Weston Dirt Gravel 32
+Weston Dirt Graded Earth 3
+Weston Dirt Unimproved/Primitive 1
+Weston Dirt Untravelled 7
+Total Dirt Mileage 42
+Weston Total Mileage 57
+White River Jct. Urban Compact Paved Pavement 17
+White River Jct. Urban Compact Dirt Gravel 0
+White River Jct. Urban Compact Dirt Graded Earth 0
+White River Jct. Urban Compact Dirt Untravelled 0
+Total Dirt Mileage 0
+White River Jct. Urban Compact Total Mileage 17
+Wilder Urban Compact Paved Pavement 9
+Wilder Urban Compact Total Mileage 9
+Windsor Paved Pavement 27
+Windsor Dirt Gravel 13
+Windsor Dirt Graded Earth 1
+Windsor Dirt Untravelled 0
+Total Dirt Mileage 14
+Windsor Total Mileage 42
+Windsor U.C. Paved Pavement 10
+Windsor U.C. Total Mileage 10
+Woodstock Paved Pavement 25
+Woodstock Dirt Gravel 34
+Woodstock Dirt Graded Earth 31
+Woodstock Dirt Unimproved/Primitive 3
+Woodstock Dirt Untravelled 8
+Total Dirt Mileage 77
+Woodstock Total Mileage 102
+Woodstock Village Paved Pavement 9
+Woodstock Village Dirt Gravel 1
+Woodstock Village Dirt Graded Earth 0
+Woodstock Village Dirt Unimproved/Primitive 0
+Total Dirt Mileage 1
+Woodstock Village Total Mileage 10
+WINDSOR COUNTY TOTAL 2114
+V:\Projects\Shared\Mapping\HighwayMappingSystem\HMS_Geodatabases\HMS_reports.mdb

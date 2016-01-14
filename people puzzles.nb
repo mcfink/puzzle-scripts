@@ -1,0 +1,127 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Mathematica 10.2' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       158,          7]
+NotebookDataLength[      3807,        117]
+NotebookOptionsPosition[      3555,        103]
+NotebookOutlinePosition[      3909,        119]
+CellTagsIndexPosition[      3866,        116]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+Cell[BoxData[{
+ RowBox[{
+  RowBox[{"jimThorpeTowns", " ", "=", " ", 
+   RowBox[{"{", 
+    RowBox[{
+     RowBox[{"{", 
+      RowBox[{
+      "\"\<Prague, Indian Territory\>\"", ",", " ", "1887", ",", "35.486092", 
+       ",", 
+       RowBox[{"-", "96.687792"}]}], "}"}], ",", " ", 
+     RowBox[{"{", 
+      RowBox[{"\"\<Stroud, Indian Territory\>\"", ",", ",", ","}], "}"}], ",",
+      " ", 
+     RowBox[{"{", 
+      RowBox[{"\"\<Lawrence, KS\>\"", ",", " ", "1899", ",", ",", ","}], 
+      "}"}], ",", " ", 
+     RowBox[{"{", 
+      RowBox[{"\"\<Carlisle, PA\>\"", ",", "1907", ",", ","}], "}"}], ",", 
+     " ", 
+     RowBox[{"{", 
+      RowBox[{"\"\<Stockholm, Sweden\>\"", ",", "1912", ",", ","}], "}"}], 
+     ",", 
+     RowBox[{"{", 
+      RowBox[{"\"\<New York, NY\>\"", ",", " ", "1913", ",", ","}], "}"}], 
+     ",", 
+     RowBox[{"{", 
+      RowBox[{"\"\<Canton, Ohio\>\"", ",", "1915", ",", ","}], "}"}], ",", 
+     RowBox[{"{", 
+      RowBox[{"\"\<LaRue, Ohio\>\"", ",", " ", "1922", ",", ","}], "}"}], ",",
+      " ", 
+     RowBox[{"{", 
+      RowBox[{"\"\<Lomita, CA\>\"", ",", " ", "1953", ",", ","}], "}"}]}], 
+    "}"}]}], ";"}], "\[IndentingNewLine]", 
+ RowBox[{
+  RowBox[{"liseMeitnerTowns", "=", 
+   RowBox[{"{", 
+    RowBox[{
+     RowBox[{"{", 
+      RowBox[{"\"\<Vienna, Austria\>\"", ",", " ", "1878"}], "}"}], ",", " ", 
+     
+     RowBox[{"{", 
+      RowBox[{"\"\<Berlin, Germany\>\"", ",", " ", "1926"}], "}"}], ",", " ", 
+     
+     RowBox[{"{", 
+      RowBox[{"\"\<Groningen, Netherlands\>\"", ",", " ", "1938"}], "}"}], 
+     ",", 
+     RowBox[{"{", 
+      RowBox[{"\"\<Stockholm, Sweden\>\"", ",", " ", "1939"}], "}"}], ",", 
+     " ", 
+     RowBox[{"{", 
+      RowBox[{"\"\<Princeton, USA\>\"", ",", " ", "1946"}], "}"}], ",", 
+     RowBox[{"{", 
+      RowBox[{"\"\<Cambridge, England\>\"", ",", " ", "1960"}], "}"}]}], 
+    "}"}]}], ";"}], "\[IndentingNewLine]", 
+ RowBox[{
+  RowBox[{"beethovenTowns", " ", "=", " ", 
+   RowBox[{"{", 
+    RowBox[{
+     RowBox[{"{", 
+      RowBox[{"\"\<Bonn, Gernmay\>\"", ",", " ", "1770"}], "}"}], ",", " ", 
+     RowBox[{"{", 
+      RowBox[{"\"\<Vienna, Austria\>\"", ",", " ", "1792"}], "}"}], ",", " ", 
+     
+     RowBox[{"{", 
+      RowBox[{"\"\<Groningen, Netherlands\>\"", ",", " ", "1938"}], "}"}], 
+     ",", 
+     RowBox[{"{", 
+      RowBox[{"\"\<Stockholm, Sweden\>\"", ",", " ", "1939"}], "}"}], ",", 
+     " ", 
+     RowBox[{"{", 
+      RowBox[{"\"\<Princeton, USA\>\"", ",", " ", "1946"}], "}"}], ",", 
+     RowBox[{"{", 
+      RowBox[{"\"\<Vienna, Austria\>\"", ",", " ", "1827"}], "}"}]}], "}"}]}],
+   ";"}]}], "Input",
+ CellChangeTimes->CompressedData["
+1:eJxTTMoPSmViYGAQAWIQzSc0WXu36WvHla8f64PoHU+3OIDox4mP3ED0ouDs
+cBC9NWdDDoiO0vm9GETLHYxdCqJXT61cA6JP7KvfCqJ/Cq09AKJ9dtUcBtFr
+3j74C6IZ2Wr+g+i8g2FvzwFpg7TTYPpMWL/meSD99fN9MN00Od8URPeENYNp
+57Vu1iC6WfwYmO6yWuUFomNaX3qD6CkOKwNB9D/p6iAQHWr47iiIltm44DiI
+Put98Q6Idp0X9hisf3fZVxAd+zvjO4i+vKiC/QKQlhCK5QHRZmdNdUB0T4eD
+Log2vbA0AUR351mmg+icjbfrQDSfXkwDiAYAlqOqOg==
+  "]]
+},
+WindowSize->{808, 911},
+WindowMargins->{{60, Automatic}, {68, Automatic}},
+FrontEndVersion->"10.2 for Mac OS X x86 (32-bit, 64-bit Kernel) (July 29, \
+2015)",
+StyleDefinitions->"Default.nb"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[558, 20, 2993, 81, 182, "Input"]
+}
+]
+*)
+
+(* End of internal cache information *)
+
