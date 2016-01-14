@@ -1,9 +1,18 @@
 *.png
 *.jpg
 *.pxm
+<<<<<<< HEAD
 */*.png
 */*.jpg
 */*.pxm
 */*/*.png
 */*/*.jpg
 */*/*.pxm
+=======
+/*.png
+/*.jpg
+/*.pxm
+/*/*.png
+/*/*.jpg
+/*/*.pxm
+>>>>>>> 236f46abc57ad94ab9d1e2f94f7c9bf2be59e096
