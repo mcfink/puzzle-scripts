@@ -1,0 +1,9 @@
+*.png
+*.jpg
+*.pxm
+*/*.png
+*/*.jpg
+*/*.pxm
+*/*/*.png
+*/*/*.jpg
+*/*/*.pxm
