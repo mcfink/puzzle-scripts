@@ -5,6 +5,7 @@ library(mapproj)
 library(rgdal)
 library(broom)
 library(ggplot2)
+library(rgeos)
 setwd("~/Desktop/puzzles-starting-2015/puzzle-21-dirt-roads/BoundaryOther_BNDHASH")
 
 ## read in VT town shape files
@@ -34,6 +35,9 @@ vt@data$Percent.Dirt[is.na(vt@data$Percent.Dirt)] <- -1
 vt@data <- vt@data[order(vt@data$TOWNS_),]
 nwvt <- subset(vt, vt@data$Percent.Dirt > -0.5)
 
+nwvt@data$id <- rownames(nwvt@data)
+nwvt.points <- fortify(nwvt, region='id')
+nwvt.df = join(nwvt.points, nwvt@data, by="id")
 
 # create a blank ggplot theme
 theme_opts <- list(theme(panel.grid.minor = element_blank(),
@@ -50,4 +54,5 @@ theme_opts <- list(theme(panel.grid.minor = element_blank(),
                          plot.title = element_text(size=22)))
 
 
-ggplot(vt[vt@data$TOWNNAMEMC %in% nwvt@data$TOWNNAMEMC,]) + geom_polygon(fill="red")
+ggplot(nwvt.df) + aes(long, lat, group=group, fill=Percent.Dirt) + geom_polygon() + geom_path(color="white") + theme_opts + coord_equal() + scale_fill_continuous(low="#300080", high="#B010FF")
+
