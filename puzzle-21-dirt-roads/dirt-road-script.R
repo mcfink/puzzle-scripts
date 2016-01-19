@@ -1,3 +1,4 @@
+library(plyr)
 library(dplyr)
 library(maps)
 library(maptools)
@@ -26,9 +27,9 @@ plot(vt[vt@data$TOWNNAMEMC %in% nwvt@data$TOWNNAMEMC,], col=rgb(.4*vt@data$Total
 
 
 ## ggplot version -- not working yet
-vt <- readShapeSpatial('Boundary_BNDHASH_region_towns.shp')
+vt <- readShapeSpatial('BoundaryOther_BNDHASH/Boundary_BNDHASH_region_towns.shp')
 
-nwvt_roads <- read.csv('../northwest-vt-roads.csv')
+nwvt_roads <- read.csv('northwest-vt-roads.csv')
 
 vt@data <- merge(vt@data, nwvt_roads, by.x = "TOWNNAMEMC", by.y = "Town", all.x = TRUE, all.y = TRUE)
 vt@data$Percent.Dirt[is.na(vt@data$Percent.Dirt)] <- -1
@@ -56,3 +57,4 @@ theme_opts <- list(theme(panel.grid.minor = element_blank(),
 
 ggplot(nwvt.df) + aes(long, lat, group=group, fill=Percent.Dirt) + geom_polygon() + geom_path(color="white") + theme_opts + coord_equal() + scale_fill_continuous(low="#300080", high="#B010FF")
 
+ggplot(nwvt.df) + aes(long, lat, group=group, fill=Total.Mileage) + geom_polygon() + geom_path(color="white") + theme_opts + coord_equal() + scale_fill_continuous(low="#003080", high="#88DDFF")

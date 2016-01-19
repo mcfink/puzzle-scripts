@@ -1,0 +1,8 @@
+library(plyr)
+library(dplyr)
+library(rgdal)
+library(broom)
+library(ggplot2)
+library(htmltools)
+library(htmltab)
+library(XML)
